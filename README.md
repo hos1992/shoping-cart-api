@@ -8,6 +8,6 @@
 -   the key session_id can be the mobile device token if it's a mobile app.
 -   place-order API is the checkout method.
 
--   Total hours estimated is 7.5
-    1.5 hour for the project structure and the database
+-   Total hours estimated is 7.5 |
+    1.5 hour for the project structure and the database |
     6 hours for the APIS
